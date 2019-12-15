@@ -1,7 +1,7 @@
 # :soccer: Foot2Rue
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/youssefbenhammed/foot2rue/blob/master/foot2rue.gif">
+  <img src="https://github.com/youssefbenhammed/foot2rue/blob/master/foot2rue.gif">
 </p>
 
 
