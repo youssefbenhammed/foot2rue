@@ -1,7 +1,7 @@
 # :soccer: Foot2Rue
 
+<center>![](foot2rue.gif)</center>
 
-![](foot2rue.gif)
 
 
 
