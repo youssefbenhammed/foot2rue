@@ -1,8 +1,8 @@
 # :soccer: Foot2Rue
 
-<p align="center">
-  ![](foot2rue.gif)
-</p>
+
+![](foot2rue.gif)
+
 
 
 Welcome to the foot2Rue front-end repository. You will find all the source files of the project.
