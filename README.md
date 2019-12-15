@@ -1,9 +1,8 @@
 # :soccer: Foot2Rue
 
-<p align="justify">
- ![](foot2rue.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/youssefbenhammed/foot2rue/blob/master/foot2rue.gif">
 </p>
-
 
 
 
